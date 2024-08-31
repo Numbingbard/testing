@@ -1,13 +1,144 @@
 {
-    "bosses": [
-      {
-        "name": "Zakum",
-        "difficulties": ["Normal", "Chaos", "Hard"]
-      },
-      {
-        "name": "PB",
-        "difficulties": ["Easy", "Normal", "Chaos"]
-      }
-    ]
+  "bosses": {
+    "CygnusE": {
+      "Price": 45562500,
+      "IMG": "./assets/cygnus.webp",
+      "Difficulty": "Easy"
+    },
+    "Hilla": {
+      "Price": 56250000,
+      "IMG": "./assets/hilla.webp",
+      "Difficulty": "Hard"
+    },
+    "Pinkbean": {
+      "Price": 64000000,
+      "IMG": "./assets/pb.webp",
+      "Difficulty": "Chaos"
+    },
+    "CygnusN": {
+      "Price": 72250000,
+      "IMG": "./assets/cygnus.webp",
+      "Difficulty": "Normal"
+    },
+    "Zakum": {
+      "Price": 81000000,
+      "IMG": "./assets/zakum.webp",
+      "Difficulty": "Chaos"
+    },
+    "Queen": {
+      "Price": 81000000,
+      "IMG": "./assets/queen.webp",
+      "Difficulty": "Chaos"
+    },
+    "Pierre": {
+      "Price": 81000000,
+      "IMG": "./assets/pierre.webp",
+      "Difficulty": "Chaos"
+    },
+    "Vonbon": {
+      "Price": 81000000,
+      "IMG": "./assets/vonbon.webp",
+      "Difficulty": "Chaos"
+    },
+    "Pno": {
+      "Price": 81000000,
+      "IMG": "./assets/pno.webp",
+      "Difficulty": "Normal"
+    },
+    "Magnus": {
+      "Price": 95062500,
+      "IMG": "./assets/magnus.webp",
+      "Difficulty": "Hard"
+    },
+    "Vellum": {
+      "Price": 105062500,
+      "IMG": "./assets/vellum.webp",
+      "Difficulty": "Chaos"
+    },
+    "Papulatus": {
+      "Price": 132250000,
+      "IMG": "./assets/pap.webp",
+      "Difficulty": "Chaos"
+    },
+    "Akechi": {
+      "Price": 144000000,
+      "IMG": "./assets/akechi.webp",
+      "Difficulty": "Normal"
+    },
+    "LotusN": {
+      "Price": 162562500,
+      "IMG": "./assets/lotus.webp",
+      "Difficulty": "Normal"
+    },
+    "SlimeN": {
+      "Price": 171610000,
+      "IMG": "./assets/slime.webp",
+      "Difficulty": "Normal"
+    },
+    "LucidE": {
+      "Price": 175562500,
+      "IMG": "./assets/lucid.webp",
+      "Difficulty": "Easy"
+    },
+    "WillE": {
+      "Price": 191275000,
+      "IMG": "./assets/will.webp",
+      "Difficulty": "Easy"
+    },
+    "LucidN": {
+      "Price": 203062500,
+      "IMG": "./assets/lucid.webp",
+      "Difficulty": "Normal"
+    },
+    "WillN": {
+      "Price": 232562500,
+      "IMG": "./assets/will.webp",
+      "Difficulty": "Normal"
+    },
+    "GloomN": {
+      "Price": 248062500,
+      "IMG": "./assets/gloom.webp",
+      "Difficulty": "Normal"
+    },
+    "DarknellN": {
+      "Price": 264062500,
+      "IMG": "./assets/darknell.webp",
+      "Difficulty": "Normal"
+    },
+    "DamienH": {
+      "Price": 351562500,
+      "IMG": "./assets/damien.webp",
+      "Difficulty": "Hard"
+    },
+    "LotusH": {
+      "Price": 370562500,
+      "IMG": "./assets/lotus.webp",
+      "Difficulty": "Hard"
+    },
+    "LucidH": {
+      "Price": 400000000,
+      "IMG": "./assets/lucid.webp",
+      "Difficulty": "Hard"
+    },
+    "WillH": {
+      "Price": 441000000,
+      "IMG": "./assets/will.webp",
+      "Difficulty": "Easy"
+    },
+    "VhillaN": {
+      "Price": 447600000,
+      "IMG": "./assets/vhilla.webp",
+      "Difficulty": "Normal"
+    },
+    "SlimeC": {
+      "Price": 451562500,
+      "IMG": "./assets/slime.webp",
+      "Difficulty": "Chaos"
+    },
+    "GloomC": {
+      "Price": 462250000,
+      "IMG": "./assets/gloom.webp",
+      "Difficulty": "Chaos"
+    }
   }
-  
+}
