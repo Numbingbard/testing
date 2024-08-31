@@ -1,0 +1,13 @@
+{
+    "bosses": [
+      {
+        "name": "Zakum",
+        "difficulties": ["Normal", "Chaos", "Hard"]
+      },
+      {
+        "name": "PB",
+        "difficulties": ["Easy", "Normal", "Chaos"]
+      }
+    ]
+  }
+  
