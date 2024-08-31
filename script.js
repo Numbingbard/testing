@@ -17,14 +17,14 @@ const totalCrystals = document.querySelector("#total-crystals");
 const bossMuleCharacters = [];
 let bosses = {};
 
-fetch('./bosses.json')
+fetch('bosses.json')
   .then(response => response.json())
   .then(data => {
     bosses = data.bosses;
   })
   .catch(error => console.error('Error fetching boss data:', error));
 
-fetch('./classes.json')
+fetch('classes.json')
 .then(response => response.json())
 .then(data => {
   const classes = data.classes;
